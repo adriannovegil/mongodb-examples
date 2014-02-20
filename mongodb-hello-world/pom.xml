@@ -6,16 +6,16 @@
 
     <parent>
         <groupId>es.devcircus</groupId>
-        <artifactId>mongodb-snippets</artifactId>
+        <artifactId>mongodb-examples</artifactId>
         <version>0.1-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
     <groupId>es.devcircus</groupId>
-    <artifactId>hello-world</artifactId>
+    <artifactId>mongodb-hello-world</artifactId>
     <packaging>jar</packaging>
     <version>0.1-SNAPSHOT</version>
-    <name>hello-world</name>
+    <name>mongodb-hello-world</name>
     <url>http://www.devcircus.com</url>
         
     <properties>
@@ -33,7 +33,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>es.devcircus.mongodb_snippets.hello_world.Main</mainClass>
+                            <mainClass>es.devcircus.mongodb_examples.hello_world.Main</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

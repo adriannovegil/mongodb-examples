@@ -4,3 +4,4 @@
 *.jar
 *.war
 *.ear
+/mongodb-hello-world/target/

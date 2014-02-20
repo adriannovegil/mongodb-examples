@@ -1,4 +1,4 @@
-MongoDB Snippets
+MongoDB Examples
 ================
 
 He desarrollado este proyecto como banco de pruebas para el API java de MongoDB.
@@ -11,9 +11,15 @@ A continuación se listan los proyectos y se da una breve descripción de cada u
 
 ### Introducción
 
- * **hello-world**: Proyecto de introducción que muestra el uso básico del API Java de MongoDB.
+ * **hello-world:** Proyecto de introducción que muestra el uso básico del API Java de MongoDB.
  
+### ODM
+
+ * **odm-hibernate-ogm:** 
+ * **odm-spring:** 
+ * **odm-morphia:** 
+
 Licencia
 --------
 
-MongoDB Snippets está protegido bajo licencia GNU General Public License, versión 2
+MongoDB Examples está protegido bajo licencia GNU General Public License, versión 2

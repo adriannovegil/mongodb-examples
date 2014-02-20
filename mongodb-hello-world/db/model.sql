@@ -1,11 +1,11 @@
 --
--- This file is part of mongodb-snippets.
+-- This file is part of mongodb-examples.
 --
--- mongodb-snippets is free software; you can redistribute it and/or modify it under the
+-- mongodb-examples is free software; you can redistribute it and/or modify it under the
 -- terms of the GNU General Public License as published by the Free Software
 -- Foundation; either version 2, or (at your option) any later version.
 --
--- mongodb-snippets is distributed in the hope that it will be useful, but WITHOUT ANY
+-- mongodb-examples is distributed in the hope that it will be useful, but WITHOUT ANY
 -- WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
 -- A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 --
@@ -20,10 +20,10 @@
 --
 
 --
--- Base de datos: `tutorial`
+-- Base de datos: `mongodb_hello_world`
 --
-CREATE DATABASE IF NOT EXISTS  tutorial DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `tutorial`;
+CREATE DATABASE IF NOT EXISTS mongodb_hello_world DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE `mongodb_hello_world`;
 
 --
 -- Objeto employee

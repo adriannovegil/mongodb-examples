@@ -55,11 +55,11 @@
     
     <!-- The basics -->
     <groupId>es.devcircus</groupId>
-    <artifactId>mongodb-snippets</artifactId>
+    <artifactId>mongodb-examples</artifactId>
     <version>0.1-SNAPSHOT</version>    
     <packaging>pom</packaging>
     <modules>
-        <module>hello-world</module>
+        <module>mongodb-hello-world</module>
     </modules>
     
     <!-- Build Settings -->
@@ -87,7 +87,7 @@
     </build>
     
     <!-- More Project Information -->
-    <name>Mongodb Snippets</name>
+    <name>MongoDB Examples</name>
     <url>http://www.devcircus.com</url>
     <developers>
         <developer>
